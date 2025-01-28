@@ -10,4 +10,4 @@ This project aims to analyze Uber datasets by leveraging a combination of cloud-
 
 ## Data Model 
 
-<img src="Data Model.PDF">
+<img src="Data Model.png">
