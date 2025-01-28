@@ -6,7 +6,7 @@ This project aims to analyze Uber datasets by leveraging a combination of cloud-
 
 ## Dataset Used
 1. Website : [Click Here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-2. Data Dictionary : [Click Here](https://github.com/Gyanvhi16/Uber-Data-Analytics/blob/main/data%20dictionary.pdf)
+2. Data Dictionary : [Click Here](Data Dictionary.png)
 
 ## Data Model 
 
