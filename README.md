@@ -13,9 +13,9 @@ We use NYC TLC Trip Record Data, which contains Uber ride details, including:
 5. Passenger counts
 
 
-#### 1. Dataset in this project : 
+#### 1. Dataset in this project : [Click Here](https://github.com/Gyanvhi16/Uber-Data-Analytics/tree/main/dataset)
 #### 2. NYC TLC Data Website : [Click Here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-####3. Data Dictionary : [Click Here](https://github.com/Gyanvhi16/Uber-Data-Analytics/blob/main/Data%20Dictionary.png) 
+#### 3. Data Dictionary : [Click Here](https://github.com/Gyanvhi16/Uber-Data-Analytics/blob/main/Data%20Dictionary.png) 
 
 ## Data Model 
 
