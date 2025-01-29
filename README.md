@@ -19,14 +19,15 @@ The goal of this project is to build a modern data pipeline for analyzing Uber t
 
 
 ## Technology Stack
-### Programming Language : Python
+### Programming Language : 
+    Python
 ### Google Cloud Platform (GCP) Services :
 1. Google Cloud Storage (GCS)
 2. Compute Engine
 3. BigQuery
 4. Looker Studio
  ### Data Pipeline Tool : 
-Mage.ai
+     Mage.ai
 
 ## Dataset Used
 We use NYC TLC Trip Record Data, which contains Uber ride details, including:
