@@ -5,9 +5,26 @@ This project aims to analyze Uber datasets by leveraging a combination of cloud-
 
 
 ## Dataset Used
-1. Website : [Click Here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-2. Data Dictionary : [Click Here](https://github.com/Gyanvhi16/Uber-Data-Analytics/blob/main/Data%20Dictionary.png)
+We use NYC TLC Trip Record Data, which contains Uber ride details, including:
+1. Pick-up & drop-off locations (Latitude/Longitude)
+2. Trip timestamps
+3. Trip distance
+4. Fares, payment types
+5. Passenger counts
+
+
+#### 1. Dataset in this project : 
+#### 2. NYC TLC Data Website : [Click Here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+####3. Data Dictionary : [Click Here](https://github.com/Gyanvhi16/Uber-Data-Analytics/blob/main/Data%20Dictionary.png) 
 
 ## Data Model 
 
 <img src="Data Model.png">
+
+
+ ## Looker Studio Dashboard
+Used Looker Studio to create an interactive dashboard displaying:
+📌 Total Trips by Date
+📌 Revenue Breakdown by Payment Type
+📌 Most Popular Pickup & Drop-off Locations
+📌 Average Trip Duration & Distance
