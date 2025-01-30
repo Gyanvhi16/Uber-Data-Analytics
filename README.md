@@ -12,10 +12,10 @@ The objective is to derive meaningful insights, optimize workflows, and demonstr
  ## Architecture 
 
 The goal of this project is to build a modern data pipeline for analyzing Uber trip records. The pipeline involves:
-✅ Extracting & loading data from NYC’s open taxi dataset
-✅ Processing & transforming using Mage (ELT tool)
-✅ Storing & querying using BigQuery
-✅ Visualizing using Looker Studio
+1. Extracting & loading data from NYC’s open taxi dataset
+2.  Processing & transforming using Mage (ELT tool)
+3. Storing & querying using BigQuery
+4. Visualizing using Looker Studio
 
 
 ## Technology Stack
