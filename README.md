@@ -49,7 +49,7 @@ We use NYC TLC Trip Record Data, which contains Uber ride details, including:
 
  ## Looker Studio Dashboard
 Used Looker Studio to create an interactive dashboard displaying:
-📌 Total Trips by Date
-📌 Revenue Breakdown by Payment Type
-📌 Most Popular Pickup & Drop-off Locations
-📌 Average Trip Duration & Distance
+1. Total Trips by Date
+2. Revenue Breakdown by Payment Type
+3. Most Popular Pickup & Drop-off Locations
+4. Average Trip Duration & Distance
